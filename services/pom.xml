@@ -12,5 +12,7 @@
     <modules>
         <module>direksi</module>
         <module>general</module>
+        <module>accounting</module>
+        <module>finance</module>
     </modules>
 </project>
