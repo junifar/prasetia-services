@@ -13,6 +13,8 @@
         <module>direksi</module>
         <module>general</module>
         <module>accounting</module>
-        <module>finance</module>
+        <module>finance/budgetdepartment</module>
+        <module>finance/budgetproject</module>
+        <module>finance/budgetmaintenance</module>
     </modules>
 </project>
